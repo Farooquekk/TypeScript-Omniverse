@@ -1,5 +1,5 @@
 
-// exporting function
+// exporting --> function 
 export function addPayment(p: number) {
     console.log(p);
     
